@@ -11,7 +11,7 @@ let isInitial = true;
 function toChange(){
   const textElement = document.getElementById("theHeadder");
   if(isInitial){
-    textElement.innerHTML = "You R already completed with and";
+    textElement.innerHTML = "You R completed &";
   }
   else
   {
