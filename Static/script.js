@@ -33,7 +33,7 @@ function toChange(){
   }
   else
   {
-    text_1.innerHTML = "🎉May ur day be filled with laugh, love, and ur life with joy.";
+    text_1.innerHTML = "🎉May your day be fill with laugh,love,& joy.";
   }
 
   const text_2 = document.getElementById("theText-2");
@@ -42,7 +42,7 @@ function toChange(){
   }
   else
   {
-    text_2.innerHTML = "Wishing Ur days are sunny as Ur smile, and special as U R.🌈";
+    text_2.innerHTML = "Wishing Ur days are special as U R.🌈";
   }
 
   const text_3 = document.getElementById("theText-3");
@@ -51,7 +51,7 @@ function toChange(){
   }
   else
   {
-    text_3.innerHTML = "🎂Getting a comfortable place and a good soulmate in Ur life .";
+    text_3.innerHTML = "🎂Getting a good soulmate in Ur life .";
   }
 
   const text_4 = document.getElementById("theText-4");
